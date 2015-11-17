@@ -1,5 +1,5 @@
 # ModelRefinement
 
-This is a repository for quantitative model refinement.
+This is a repository for implementation of quantitative model refinement.
 
 
